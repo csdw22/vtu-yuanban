@@ -1,1 +1,1 @@
-# vtu-jingjian
+FROM unistey/vtu-yuanban:v1
