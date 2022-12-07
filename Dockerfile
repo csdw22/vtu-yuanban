@@ -1,1 +1,1 @@
-FROM unistey/mg-vtu:latest
+FROM unistey/vtu-yuanban:latest
